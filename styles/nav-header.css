@@ -114,16 +114,18 @@ height: 100%;
     text-decoration: none;
     font-size: 1.2em;
     font-weight: bold;
-    padding: 20px 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 12px;
     background-color: #414344;
     width: 100px;
     /* border: solid; */
-    /* border-radius: 2px; */
+    border-radius: 6px;
 }
 
 .nav-header-main-wrapper > .header-links-wrapper > .nav-link-1 i {
     color: rgb(52, 235, 52);
-    padding-right: 10px;
+    padding-right: 12px;
 }
 
 .nav-header-main-wrapper > .header-links-wrapper > .nav-link-2 i {
@@ -136,10 +138,10 @@ height: 100%;
     text-decoration: none;
     font-size: 1.2em;
     font-weight: bold;
-    padding: 20px 20px;
+    padding: 20px 12px;
     background-color: #414344;
     width: 100px;
-    border-radius: 2px;
+    border-radius: 6px;
 }
 
 .nav-header-main-wrapper > .header-links-wrapper > .nav-link-4 a {
@@ -147,8 +149,8 @@ height: 100%;
     text-decoration: none;
     font-size: 1.2em;
     font-weight: bold;
-    padding: 20px 20px;
+    padding: 20px 12px;
     background-color: #414344;
     width: 100px;
-    border-radius: 2px;
+    border-radius: 6px;
 }

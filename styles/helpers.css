@@ -1,0 +1,7 @@
+/* Footer Helpers */
+
+.empty-area-wrapper > .space120{
+    Padding-top: 120px;
+    width: 100%;
+    background-color: #181717;
+}

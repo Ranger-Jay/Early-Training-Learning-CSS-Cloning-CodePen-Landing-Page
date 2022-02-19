@@ -1,0 +1,20 @@
+.nav-footer-wrapper > .footer-links-wrapper {
+    background-color: #414344;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    /* size: 1fr 1fr 1fr 1fr; */
+}
+
+.nav-footer-wrapper > .footer-links-wrapper > .nav-link a {
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Rowdies', sans-serif;
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 15px 63px;
+    width: 233px;
+    border-radius: 0px;
+    
+}
